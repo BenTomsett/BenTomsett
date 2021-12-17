@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+#### I'm Ben Tomsett, a computing science student at University of East Anglia.
+
+I'm sure I'll write more here, but this'll do for now.
+Currently I'm working on Valence - a new lightweight content management system (CMS). See more [here](https://github.com/valence-cms)
 
 <!--
 **BenTomsett/BenTomsett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
